@@ -5518,7 +5518,6 @@ Library.API = {
 }
 
 -- Repeated helper generators (script-facing utilities)
-end
 
 -- Expanded color utility table
 Library.ColorUtil = {}
